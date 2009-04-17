@@ -1,6 +1,4 @@
-#summary One-sentence summary of this page.
 #labels EA
-
 = Introduction =
 
 FreEA - Intraday is an expert advisor that results from the union of several strategies for success. Various positions opening daily gains adding to your balance.
