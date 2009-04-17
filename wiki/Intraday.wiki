@@ -6,4 +6,4 @@ FreEA - Intraday is an expert advisor that results from the union of several str
 
 = Strategies =
 
-  * Fast moving averages crossover
+  * [[Fast]] moving averages crossover]
