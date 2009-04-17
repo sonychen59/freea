@@ -1,0 +1,16 @@
+= Introduction =
+
+Trading systems based on fast moving averages.
+
+
+= Details =
+
+  * *Currency pairs*: _ANY._
+  * *Time Frame*: _15M, 1H._
+  * *Indicators*: _EMA(10), EMA(25), EMA(50) and RSI(14)._
+  * *Rules*:
+    ** Entry Phase: _When EMA(10) goes through EMA(25) and continues through EMA(50), send BUY order if RSI(14) crossing the 50 level upwards or send SELL order if RSI(14) crossing the 50 level down._
+    ** Exit Phase:
+      # _When you reach TP or SL._
+      # _When EMA(10) crosses EMA(25) again._
+      # _When EMA(10) returns and touches EMA(50)._
