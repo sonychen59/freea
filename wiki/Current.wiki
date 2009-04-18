@@ -3,7 +3,7 @@
 = Details =
   * *Version*:0.01
   * *Description:* This version is not functional and profitable. Wait for the next release.
-  * Expert Advisors:
+  * *Expert Advisors:*
     ** [Intraday FreEA - Intraday]
   * *Templates:*
   * *Indicators:*
