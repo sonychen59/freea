@@ -5,6 +5,6 @@
   * *Description:* This version is not functional and profitable. Wait for the next release.
   * Expert Advisors:
     ** [Intraday FreEA - Intraday]
-  * Templates
-  * Indicators
-  * Scripts
+  * *Templates:*
+  * *Indicators:*
+  * *Scripts:*
