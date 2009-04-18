@@ -14,3 +14,4 @@ Below a list of ways you can help maintain this project.
   * You may be referred to one of our brokers:
     ** FxOpen:<br><a href="https://cabinet.fxopen.com/Actions/Redirect.ashx?Agent=170496"><img src="http://geocities.yahoo.com.br/tamsmiranda/images/blue-468x60.gif" width="468" height="60" border="0"/></a>
     ** Marketiva:<br><a href="http://www.marketiva.com/?gid=23819" target="marketiva"><img src="http://www.marketiva.com/images/banners/ENG_marketiva_468x60_1.gif" width="468" height="60" border="0"/></a>
+    ** FxOpen:<br><a href="https://cabinet.fxopen.com/Actions/Redirect.ashx?Agent=170496" target="fxopen"><img src="http://geocities.yahoo.com.br/tamsmiranda/images/blue-468x60.gif" width="468" height="60" border="0"/></a>
