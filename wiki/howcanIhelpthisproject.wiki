@@ -1,3 +1,4 @@
+#labels Featured
 = How can I help this project? =
 
 FreEA is an open source project and is maintained by voluntary but has needs like any other project.
@@ -11,5 +12,5 @@ Below a list of ways you can help maintain this project.
 == Financial ==
   * You can make a donation.
   * You may be referred to one of our brokers:
-    ** <a href="https://cabinet.fxopen.com/Actions/Redirect.ashx?Agent=170496">FxOpen</a>
+    ** FxOpen<br><a href="https://cabinet.fxopen.com/Actions/Redirect.ashx?Agent=170496"><img src="http://geocities.yahoo.com.br/tamsmiranda/images/blue-468x60.gif" width="468" height="60" border="0"/></a>
     ** Marketiva:<br><a href="http://www.marketiva.com/?gid=23819" target="marketiva"><img src="http://www.marketiva.com/images/banners/ENG_marketiva_468x60_1.gif" width="468" height="60" border="0"/></a>
