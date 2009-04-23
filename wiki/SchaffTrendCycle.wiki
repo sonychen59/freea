@@ -8,9 +8,9 @@ Trading systems based on Schaff Trend Cycle.
 
   * *Currency pairs*: _ANY._
   * *Time Frame*: _15M, 1H._
-  * *Indicators*: _FreEA_SchaffTrendCycle and RSI(14)._
+  * *Indicators*: _[SchaffTrendCycle FreEA_SchaffTrendCycle] and RSI(14)._
   * *Rules*:
-    ** Entry Phase: _When FreEA_SchaffTrendCycle goes through 25 level and RSI(14)<50 send a BUY order or When FreEA_SchaffTrendCycle crossing 75 level down and RSI(14)>50 send a SELL order._
+    ** Entry Phase: _When [SchaffTrendCycle FreEA_SchaffTrendCycle] goes through 25 level and RSI(14)<50 send a BUY order or When [SchaffTrendCycle FreEA_SchaffTrendCycle] crossing 75 level down and RSI(14)>50 send a SELL order._
     ** Exit Phase:
       # _When you reach TP or SL._
       # _When gives a signal contrary and SL < Bid(Buy) or Ask(Sell)._
